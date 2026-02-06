@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** Andy Wang
-- **CCID:** `jingch10
+- **CCID:** jingch10
 
 ## References and Resources
 
